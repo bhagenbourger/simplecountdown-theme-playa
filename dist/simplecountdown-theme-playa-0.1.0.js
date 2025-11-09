@@ -30,47 +30,47 @@ SimpleCountdown.addTheme(
           "}" +
 
           // - Select first brick
-          ".sc-brick:nth-child(2){" +
+          ".sc-brick:nth-child(1){" +
             "border: 2px solid #FFEB3B;" +
           "}" +
 
-          ".sc-brick:nth-child(2) .sc-number{" +
+          ".sc-brick:nth-child(1) .sc-number{" +
             "color: rgba(255,255,255,0.8);" +
           "}" +
 
-          ".sc-brick:nth-child(2) .sc-legend{" +
+          ".sc-brick:nth-child(1) .sc-legend{" +
             "color: #FFEB3B;" +
           "}" +
 
-          ".sc-brick:nth-child(3){" +
+          ".sc-brick:nth-child(2){" +
             "border: 2px solid #FFEE58;" +
           "}" +
 
-          ".sc-brick:nth-child(3) .sc-number{" +
+          ".sc-brick:nth-child(2) .sc-number{" +
             "color: rgba(255,255,255,0.9);" +
           "}" +
 
-          ".sc-brick:nth-child(3) .sc-legend{" +
+          ".sc-brick:nth-child(2) .sc-legend{" +
             "color: #FFEE58;" +
           "}" +
 
-          ".sc-brick:nth-child(4){" +
+          ".sc-brick:nth-child(3){" +
             "border: 2px solid #FFF59D;" +
           "}" +
 
-          ".sc-brick:nth-child(4) .sc-legend{" +
+          ".sc-brick:nth-child(3) .sc-legend{" +
             "color: #FFF59D;" +
           "}" +
 
-          ".sc-brick:nth-child(4) .sc-number{" +
+          ".sc-brick:nth-child(3) .sc-number{" +
             "color: rgba(255,255,255,1);" +
           "}" +
 
-          ".sc-brick:nth-child(5){" +
+          ".sc-brick:nth-child(4){" +
             "border: 2px solid #FFF9C4;" +
           "}" +
 
-          ".sc-brick:nth-child(5) .sc-number{" +
+          ".sc-brick:nth-child(4) .sc-number{" +
             "color: #FFF9C4;" +
           "}",
 
